@@ -10,3 +10,18 @@
     color: magenta;
     margin: 20px 20px;
 }
+
+.form-place{
+    margin: 10% 10%;
+    padding: 10% 10%;
+    border: 3px grey solid;
+}
+
+.input-boxes{
+    margin-top: 50px;
+    width:50%;
+}
+
+.submit-btn{
+   margin-left: 30px;
+}
